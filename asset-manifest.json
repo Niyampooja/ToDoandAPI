@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/todoandapi/static/css/main.d95ce1e3.chunk.css",
+    "main.js": "/todoandapi/static/js/main.a47eb812.chunk.js",
+    "main.js.map": "/todoandapi/static/js/main.a47eb812.chunk.js.map",
+    "runtime-main.js": "/todoandapi/static/js/runtime-main.4a4eda66.js",
+    "runtime-main.js.map": "/todoandapi/static/js/runtime-main.4a4eda66.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/todoandapi/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.e7c517f4.chunk.js": "/todoandapi/static/js/2.e7c517f4.chunk.js",
+    "static/js/2.e7c517f4.chunk.js.map": "/todoandapi/static/js/2.e7c517f4.chunk.js.map",
+    "static/js/3.95cf56b5.chunk.js": "/todoandapi/static/js/3.95cf56b5.chunk.js",
+    "static/js/3.95cf56b5.chunk.js.map": "/todoandapi/static/js/3.95cf56b5.chunk.js.map",
+    "index.html": "/todoandapi/index.html",
+    "static/css/2.3ab4f688.chunk.css.map": "/todoandapi/static/css/2.3ab4f688.chunk.css.map",
+    "static/css/main.d95ce1e3.chunk.css.map": "/todoandapi/static/css/main.d95ce1e3.chunk.css.map",
+    "static/js/2.e7c517f4.chunk.js.LICENSE.txt": "/todoandapi/static/js/2.e7c517f4.chunk.js.LICENSE.txt",
+    "static/media/logo.ae43328e.png": "/todoandapi/static/media/logo.ae43328e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4eda66.js",
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.e7c517f4.chunk.js",
+    "static/css/main.d95ce1e3.chunk.css",
+    "static/js/main.a47eb812.chunk.js"
+  ]
+}
