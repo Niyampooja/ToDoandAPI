@@ -1,7 +1,7 @@
 {
   "name": "todolist_material",
   "version": "0.1.0",
-  "homepage": "https://Niyampooja.github.io/todoandapi/",
+  "homepage": "https://Niyampooja.github.io/ToDoandAPI",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
